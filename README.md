@@ -13,3 +13,16 @@ Effectively use the MVC pattern to ensure the user can only use our vending mach
 
 ### Have fun!
 There are a lot of extended challenges and features that can be added to your vending machine. The Vendrrr Company expects the minimal interfaces and snacks to be available to the user, but they encourage creativity! Some challenges could be allowing the user to add different amounts of money. Making different snacks available to purchase. Returning user change. Keeping track of how much money the machine has total from all purchases. An input field where users can put in the location of their item (d4) as opposed to clicking the specific item. Use a form for the vender to be able to add new items to the machine by passing user input from the form to a constructor to make the item and add it to the vending items collection. Add images for your snack!
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
